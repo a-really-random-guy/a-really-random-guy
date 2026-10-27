@@ -1,19 +1,28 @@
+
 <p align="center">
-  <img src=".github/code.webp?raw=true" alt="Coding Workspace">
+  <img src="/code.webp?raw=true" alt="Coding Workspace">
 </p>
-
-## Hi there 👋
-
+<h1 align="center">
+Hi there 👋
+</h1>
+<p align="center">
 I'm a student\
 I'm currently studying software development\
 Pronouns: He/Him
+</p>
+<h1 align="center">
+My profiles:
 
-## My profiles:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a-really-random-guy)
 
-## I have worked with:
+</h1>
+<h1 align="center">
+I have worked with:
+
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](http://csharp.net/)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
+</h1>
+
 <!--
 **a-really-random-guy/a-really-random-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
