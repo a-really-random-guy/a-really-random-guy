@@ -30,6 +30,7 @@ I have worked with:
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](http://csharp.net/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 </div>
 <h3 align="center">
   Applications:
@@ -41,5 +42,7 @@ I have worked with:
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Home Assistant](https://img.shields.io/badge/home%20assistant-%2318BCF2.svg?style=for-the-badge&logo=homeassistant&logoColor=white)](https://www.home-assistant.io/)
+[![Jellyfin](https://img.shields.io/badge/jellyfin-%2300A4DC.svg?style=for-the-badge&logo=jellyfin&logoColor=white)](https://jellyfin.org/)
+[![WebStorm](https://img.shields.io/badge/webstorm-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm/)&nbsp;&nbsp;
 
 </div>
