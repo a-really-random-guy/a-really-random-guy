@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a student
+I'm currently studying software development
+Pronouns: He/Him
 <!--
 **a-really-random-guy/a-really-random-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
